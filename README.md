@@ -1,11 +1,10 @@
-# GUARANA ANDROID EVALUATION #
+# Pizza Locations #
 
 This test consists in building a simple application that will allow users
-to find currently open coffee shops around them.
+to find currently open pizza places around them.
 
-There is no account creation needed in this project. You have 5 hours maximum to complete the project.
+For this project we will need GMaps & ForSquare accounts. (If you are a company that is here to know my work, send me an email, I will gladly send you the necessary credentials) 
 
-All the elements provided below are sufficient and no answers will be given during this test by Guarana’s team. If you are facing a technical choice, you will have to make your own decision keeping in mind:
 
 ## Screens
 
